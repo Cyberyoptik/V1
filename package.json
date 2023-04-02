@@ -1,12 +1,12 @@
 {
-  "name": "Arulbot-Md",
+  "name": "</h1>Rosif</p>",
   "version": "0.0.0",
   "description": "WhatsApp Bot Multi Device",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Arul",
+  "author": "</h1>Rosif</p>",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
